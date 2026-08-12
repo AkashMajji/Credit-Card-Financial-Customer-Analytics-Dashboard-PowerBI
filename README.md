@@ -25,7 +25,7 @@ The project consists of two analytical report pages:
 
 ### Credit Card Transaction Report
 
-![Credit Card Transaction Report](Images/Credit_Card_Transaction_Report.png)
+![Credit Card Transaction Report](Images/Credit Card Customer Report.png)
 
 ### Credit Card Customer Report
 
