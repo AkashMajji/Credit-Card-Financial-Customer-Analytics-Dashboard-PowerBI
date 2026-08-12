@@ -23,8 +23,6 @@ The project consists of two analytical report pages:
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
-
 <table>
   <tr>
     <td align="center">
