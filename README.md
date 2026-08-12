@@ -23,13 +23,13 @@ The project consists of two analytical report pages:
 
 ## 📊 Dashboard Preview
 
-<h1 align="center">Credit Card Customer Report</h1>
+<h2 align="center">1. Credit Card Customer Report</h2>
 
 <p align="center">
 <img src="Images/Credit Card Customer Report.png" width="100%" alt="Credit Card Customer Report"/>
 </p>
 
-<h1 align="center">Credit Card Transaction Report</h1>
+<h2 align="center">2. Credit Card Transaction Report</h2>
 
 <p align="center">
 <img src="Images/Credit Card Transaction Report.png" width="100%" alt="Credit Card Customer Report"/>
