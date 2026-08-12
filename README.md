@@ -29,7 +29,7 @@ The project consists of two analytical report pages:
 <img src="Images/Credit Card Customer Report.png" width="100%" alt="Credit Card Customer Report"/>
 </p>
 
-<h2 align="center">2. Credit Card Transaction Report</h2>
+<h2 align="Left">2. Credit Card Transaction Report</h2>
 
 <p align="center">
 <img src="Images/Credit Card Transaction Report.png" width="100%" alt="Credit Card Customer Report"/>
