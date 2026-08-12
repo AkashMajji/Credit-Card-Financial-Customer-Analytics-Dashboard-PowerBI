@@ -180,6 +180,21 @@ The first page focuses on **financial and transaction performance**, while the s
 
 ---
 
+# 📁 Repository Structure
+
+```
+Employee-Attrition-Dashboard-PowerBI
+│
+├── Images
+│   └── Credit_Card_Transaction_Report.png
+│   └── Credit_Card_Customer_Report.png
+├── .gitignore
+├──  Credit-Card-Financial-Dashboard.pbix
+├── LICENSE
+├── README.md
+
+```
+
 ## 🚀 Future Improvements
 
 Possible future enhancements include:
