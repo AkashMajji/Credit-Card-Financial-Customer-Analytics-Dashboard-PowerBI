@@ -25,7 +25,9 @@ The project consists of two analytical report pages:
 
 ### Credit Card Transaction Report
 
-![Credit Card Transaction Report](Images/Credit Card Customer Report.png)
+<p align="center">
+<img src="Images/Credit Card Customer Report.png" width="100%" alt="Employee Attrition Dashboard"/>
+</p>
 
 ### Credit Card Customer Report
 
