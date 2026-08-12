@@ -179,17 +179,3 @@ Possible future enhancements include:
 - Forecasting
 
 ---
-
-## 👨‍💻 Author
-
-### Akash Majji
-
-Data Analytics | Power BI | Business Intelligence
-
-GitHub: [Add your GitHub profile]
-
-LinkedIn: [Add your LinkedIn profile]
-
----
-
-⭐ If you found this project useful, consider giving the repository a star!
