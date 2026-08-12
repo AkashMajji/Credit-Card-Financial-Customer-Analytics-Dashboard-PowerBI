@@ -12,7 +12,7 @@ The project consists of two analytical report pages:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge" alt="DAX"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge" alt="Power Query"/>&nbsp;&nbsp;
