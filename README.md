@@ -1,11 +1,22 @@
-# 💳 Credit Card Financial & Customer Analytics Dashboard
+<h1 align="center"># 💳 Credit Card Financial & Customer Analytics Dashboard</h1>
 
+<p align="center">
 An interactive Power BI dashboard designed to analyze credit card transaction performance, revenue, customer behavior, transaction patterns, and customer segmentation.
 
 The project consists of two analytical report pages:
 
 - Credit Card Transaction Report
 - Credit Card Customer Report
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge" alt="DAX"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge" alt="Power Query"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge" alt="Data Analytics"/>
+</p>
 
 ---
 
@@ -138,6 +149,8 @@ This dashboard helps answer questions such as:
 ## 🛠️ Tools Used
 
 - Microsoft Power BI
+- SQL
+- Microsoft Excel
 - Data Visualization
 - Interactive Dashboard Design
 - Data Analysis
