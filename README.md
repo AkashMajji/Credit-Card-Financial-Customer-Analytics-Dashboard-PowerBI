@@ -186,8 +186,8 @@ The first page focuses on **financial and transaction performance**, while the s
 Credit-Card-Financial-Customer-Analytics-Dashboard-PowerBI
 │
 ├── Images
-│   └── Credit_Card_Transaction_Report.png
 │   └── Credit_Card_Customer_Report.png
+│   └── Credit_Card_Transaction_Report.png
 ├── .gitignore
 ├──  Credit-Card-Financial-Customer-Analytics-Dashboard-PowerBI.pbix
 ├── LICENSE
